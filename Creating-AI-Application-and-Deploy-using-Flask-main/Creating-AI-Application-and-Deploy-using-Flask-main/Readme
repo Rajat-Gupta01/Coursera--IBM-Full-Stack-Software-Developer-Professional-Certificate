@@ -1,0 +1,62 @@
+Module 1
+Introduction to the Course
+Reading: Python with Flask for Large-Scale Projects
+Application Development Lifecycle
+Introduction to Web Applications and APIs
+Demo: Working with an IDE
+Hands-on Lab: Getting Started with IDE 
+Python Style Guide and Coding Practices
+Reading: Static Code Analysis Resources
+Hands-on Lab: Static Code Analysis
+Unit Testing
+Packaging
+
+Module 2
+Python Libraries and Frameworks for Application Development
+Introduction to Flask
+Flask - Basic Applications and Routes
+Hands-on Lab: Get Started with Flask Basics
+Request and Response Objects – Using GET and POST Modes
+Dynamic Routes
+Error Handling
+Hands-on Lab: Building an API with Flask: Route Creation, Error Handling, and HTTP Requests
+Deploying Web Apps using Flask
+Reading: Decorators in Flask
+Hands-on Lab: Building and Deploying a Web App using Flask App
+Reading: Additional Features in Flask
+Hands-on Lab: Exploring Additional Features Flask
+
+Module 3
+Practice Project Overview
+Task 1: Clone the project repository
+Task 2: Create a sentiment analysis application using Watson NLP library
+Task 3: Format the output of the application
+Task 4: Package the application
+Task 5: Run Unit tests on your application
+Task 6: Deploy as web application using Flask
+Task 7: Incorporate error handling
+Task 8: Run static code analysis
+Practice Project: Sentiment Analysis
+
+Final Project Overview
+Task 1: Clone the project repository
+Task 2: Create an emotion detection application using Watson NLP library
+Task 3: Format the output of the application
+Task 4: Package the application
+Task 5: Run Unit tests on your application
+Task 6: Web deployment of the application using Flask
+Task 7: Incorporate error handling
+Task 8: Run static code analysis
+
+Final Project: Emotion Detector
+
+Module 3 Summary: Creating AI Application and Deploy using Flask
+Congratulations! You have completed this module. At this point, you know that: 
+In the projects, you developed web apps with incorporated AI functionality using IBM Watson libraries. 
+Both projects followed the same application creation steps including:
+Create a function for the application
+Package the application function
+Run unit testing of the function by calling it as a package
+Deploy the application over the web using Flask
+Incorporate Error handling to the application
+Run static code analysis on the codes created
